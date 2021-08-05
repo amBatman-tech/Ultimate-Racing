@@ -1,0 +1,45 @@
+﻿<Properties StartupItem="Assembly-CSharp.csproj">
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" PreferredExecutionTarget="Unity.Instance.Unity Editor" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets\Scripts\PauseMenu.cs">
+    <Files>
+      <File FileName="Assets\Scripts\cameraStable.cs" Line="1" Column="1" />
+      <File FileName="Assets\Scripts\HalfPointTrigger.cs" Line="1" Column="1" />
+      <File FileName="Assets\Scripts\LapTimeManager.cs" Line="1" Column="1" />
+      <File FileName="Assets\Scripts\LapComplete.cs" Line="1" Column="1" />
+      <File FileName="Assets\Scripts\CountDown.cs" Line="1" Column="1" />
+      <File FileName="Assets\Scripts\CarControlActive.js" Line="1" Column="1" />
+      <File FileName="Assets\Scripts\DreamCar01Track.cs" Line="1" Column="1" />
+      <File FileName="Assets\Scripts\CameraChange.cs" Line="1" Column="1" />
+      <File FileName="Assets\Scripts\LoadLapTime.cs" Line="1" Column="1" />
+      <File FileName="Assets\Scripts\FinishRotateCutScene.cs" Line="1" Column="1" />
+      <File FileName="Assets\Scripts\RaceFinish.cs" Line="1" Column="1" />
+      <File FileName="Assets\Scripts\ButtonOption.cs" Line="1" Column="1" />
+      <File FileName="Assets\Scripts\GlobalCar.cs" Line="1" Column="1" />
+      <File FileName="Assets\Scripts\CarChoice.cs" Line="1" Column="1" />
+      <File FileName="Assets\Scripts\CreditFinish.cs" Line="1" Column="1" />
+      <File FileName="Assets\Scripts\GlobalCash.cs" Line="1" Column="1" />
+      <File FileName="Assets\Scripts\ModeSelect.cs" Line="1" Column="1" />
+      <File FileName="Assets\Scripts\ScoreMode.cs" Line="1" Column="1" />
+      <File FileName="Assets\Scripts\ScoreScripts\RedScore.cs" Line="1" Column="1" />
+      <File FileName="Assets\Scripts\ScoreScripts\BlueScore.cs" Line="1" Column="1" />
+      <File FileName="Assets\Scripts\ScoreScripts\YellowScore.cs" Line="1" Column="1" />
+      <File FileName="Assets\Scripts\TimeMode.cs" Line="1" Column="1" />
+      <File FileName="Assets\Scripts\SkyRotate.cs" Line="1" Column="1" />
+      <File FileName="Assets\Scripts\Unlockables.cs" Line="1" Column="1" />
+      <File FileName="Assets\Scripts\UnlockedObjects.cs" Line="1" Column="1" />
+      <File FileName="Assets\Scripts\MenuAppear.cs" Line="1" Column="1" />
+      <File FileName="Assets\Standard Assets\Vehicles\Car\Scripts\CarController.cs" Line="1" Column="1" />
+      <File FileName="Assets\Scripts\AICar\TrackTwoAICar.cs" Line="1" Column="1" />
+      <File FileName="Assets\Scripts\AICar\TrackThreeAICar.cs" Line="1" Column="1" />
+      <File FileName="Assets\Scripts\AICar\TrackFourAICar.cs" Line="1" Column="1" />
+      <File FileName="Assets\Scripts\Positioning\PosUp.cs" Line="1" Column="1" />
+      <File FileName="Assets\Scripts\Positioning\PosDown.cs" Line="1" Column="1" />
+      <File FileName="Assets\Scripts\SplashToMenu.cs" Line="1" Column="1" />
+      <File FileName="Assets\Scripts\PauseMenu.cs" Line="53" Column="25" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>
