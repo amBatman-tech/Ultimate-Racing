@@ -1,7 +1,3 @@
-# Ultimate-Racing
-
-All the information regarding the project can be found in main matter.pdf
-
 # Resources
 
 All the assets and other files related to this project can be found at Google drive link below:-
