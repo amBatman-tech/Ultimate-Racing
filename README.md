@@ -1,4 +1,4 @@
-# Resources
+# Assets which couldnt be uploaded with Scripts
 
 All the assets and other files related to this project can be found at Google drive link below:-  
 
